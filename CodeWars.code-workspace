@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "CodeWars.Cli"
+		},
+		{
+			"path": "CodeWars.Test"
+		}
+	],
+	"settings": {}
+}
